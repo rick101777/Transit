@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Transit</string>
+    <string name="map">Map</string>
+    <string name="bus">Bus</string>
+    <string name="train">Train</string>
+    <string name="metra">Metra</string>
+    <string name="settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="bus_schedule">Bus Schedule</string>
+    <string name="metra_schedule">Metra Schedule</string>
+    <string name="train_schedule">Train Schedule</string>
+    <string name="bus_routes">Bus Routes</string>
+    <string name="API_Key">AIzaSyBWEVaVtApOCyftY0o4Uo51XMPhjVPLOvE</string>
+    <string name="metra_line">Metra Line</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="search">SEARCH</string>
+</resources>
